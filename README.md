@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-•  My name is Muaad Siala <br><br> • 🔭 I’m currently working on Boursa Admin Dashboard<br><br> • 🌱 I’m currently learning the MERN stack<br><br> • 👨‍💻 All of my projects are available at https://github.com/M-H-A-S<br><br> • 📝 I regularly write articles on https://medium.com/@muaad144301<br><br> • 💬 Ask me about MERN stack and Web 3 technologies <br><br> • 📫 How to reach me Muaad144301@gmail.com
+•  My name is Muaad Siala. <br><br> • 🔭 I’m currently working on Boursa Admin Dashboard.<br><br> • 🌱 I’m currently learning the MERN stack.<br><br> • 👨‍💻 All of my projects are available at https://github.com/M-H-A-S<br><br> • 📝 I regularly write articles on https://medium.com/@muaad144301<br><br> • 💬 Ask me about MERN stack and Web 3 technologies. <br><br> • 📫 How to reach me Muaad144301@gmail.com
 
 
 ## 🌐 Socials:
